@@ -1,0 +1,41 @@
+[
+  {
+    "id": "basic",
+    "name": "Basic Plan",
+    "price": 1500,
+    "description": "A simple membership for beginners who want access to essential gym facilities.",
+    "features": [
+      "Access to gym floor equipment",
+      "Standard gym hours access",
+      "Locker room access",
+      "One free fitness assessment",
+      "Basic workout guidance"
+    ]
+  },
+  {
+    "id": "standard",
+    "name": "Standard Plan",
+    "price": 2500,
+    "description": "Ideal for regular members who want additional support and group classes.",
+    "features": [
+      "All Basic plan features",
+      "Access to group workout classes",
+      "Monthly trainer consultation",
+      "Body composition tracking",
+      "Extended gym hours"
+    ]
+  },
+  {
+    "id": "premium",
+    "name": "Premium Plan",
+    "price": 4000,
+    "description": "Advanced membership with personalized training and extra benefits.",
+    "features": [
+      "All Standard plan features",
+      "4 personal trainer sessions per month",
+      "Personalized workout plan",
+      "Customized diet guidance",
+      "Priority equipment access"
+    ]
+  }
+]
